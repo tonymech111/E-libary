@@ -13,7 +13,7 @@ The website is built with HTML, CSS, and JavaScript and designed to be responsiv
 
 ## Getting Started
 
-To view the website, visit: [https://tonymech111.github.io/tonymech111/E-library/new](https://tonymech111.github.io/tonymech111/E-library/new)
+To view the website, visit: https://github.com/tonymech111/E-libary.git
 
 ### Features
 - User-friendly layout with a clean design.
