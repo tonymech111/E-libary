@@ -1,6 +1,6 @@
 # My Website
 
-Welcome Tonymech E-library! This is a simple static site hosted using GitHub Pages.
+Welcome to Tonymech E-library! This is a simple static site hosted using GitHub Pages.
 
 ## Description
 
@@ -13,7 +13,7 @@ The website is built with HTML, CSS, and JavaScript and designed to be responsiv
 
 ## Getting Started
 
-To view the website, visit: [https://tonymech111.github.io/tonymech111/E-libary/new](https://tonymech111.github.io/tonymech111/E-libary/new)
+To view the website, visit: [https://tonymech111.github.io/tonymech111/E-library/new](https://tonymech111.github.io/tonymech111/E-library/new)
 
 ### Features
 - User-friendly layout with a clean design.
